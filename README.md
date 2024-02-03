@@ -44,8 +44,8 @@ This web application serves as an online platform for Accurate Graphics, allowin
 To run this website locally, clone the repository and open the `index.html` file in your preferred web browser. Ensure an internet connection for external resources like fonts and libraries.
 
 ```bash
-git clone https://github.com/your-username/accurate-graphics-website.git
-cd accurate-graphics-website
+git clone https://github.com/harshgitdeep/accurategraphics.git
+cd accurategraphics
 ```
 
 ## Contributing
