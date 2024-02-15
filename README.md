@@ -2,7 +2,7 @@
 <h1>Accurate Graphics </h1>
 <h4>A bussiness website</h4>
 
-AccurateGraphics is a website project developed to showcase the services and information related to Dad's business named Accurate Graphics, a design studio specializing in stamp making, design & printing, and promotional materials. The business has been providing creative design solutions since 1997.
+AccurateGraphics is a website project developed to showcase the services and information related for my Dad's business named Accurate Graphics, a design studio specializing in stamp making, design & printing, and promotional materials. The business has been providing creative design solutions since 1997.
 ## CLick here to view  -->  <a href="https://accurategraphics.netlify.app/" target="_blank">accurategraphics.netlify.app</a>
 ## Table of Contents
 - [Overview](#overview)
